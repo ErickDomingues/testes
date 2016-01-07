@@ -1,0 +1,11 @@
+{
+    "config":{
+        "bin-dir":"bin/"
+    },
+    "autoload":{
+      "prs-0":{"Atrati":"src/"}  
+    },
+    "require":{
+        "phpunit/phpunit":"4.2.6"
+    }
+}
